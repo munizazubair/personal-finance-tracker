@@ -3,7 +3,7 @@ import requests
 import matplotlib.pyplot as plt
 from io import BytesIO
 
-API_URL = "https://c6aa-2400-9fc0-5-3ab-a823-98c2-e874-1ddf.ngrok-free.app"
+API_URL = "https://4e9d-2400-9fc0-5-33c-5dfd-fb8e-efde-bee4.ngrok-free.app"
 
 st.title("📊 Personal Finance Tracker")
 
